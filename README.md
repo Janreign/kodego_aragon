@@ -1,1 +1,1 @@
-Kodego Outpu
+Kodego Output
