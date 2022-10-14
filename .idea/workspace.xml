@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed76013-5049-47b2-88ef-2d0005d031bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Activity1A/Activity _1A_ A.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/exercise1/Main.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="8ed76013-5049-47b2-88ef-2d0005d031bb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +120,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665146946391</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial Commit">
+      <created>1665736267508</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665736267508</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial Commit">
+      <created>1665736365489</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665736365489</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial Commit">
+      <created>1665736519548</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665736519548</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
