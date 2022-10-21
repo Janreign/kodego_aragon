@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed76013-5049-47b2-88ef-2d0005d031bb" name="Changes" comment="" />
+    <list default="true" id="8ed76013-5049-47b2-88ef-2d0005d031bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array, ArrayList, Set, Map Activity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LessonPractice/DataStructure 3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity1A/Activity _1A_ A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity1A/Activity _1A_ A.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1B/Activity_1B_.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1B/Activity_1B_.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1C/Activity_1C.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1C/Activity_1C.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +54,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propGUI&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Activity__1A__AKt">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Kodego_Aragon_Exercises\src\main\kotlin\LessonPractice" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="Activity__1A__AKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Activity__1A__AKt" />
       <module name="Kodego_Aragon_Exercises.main" />
@@ -141,15 +155,45 @@
       <option name="project" value="LOCAL" />
       <updated>1665736519548</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Initial Commit">
+      <created>1665736600539</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665736600539</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add package exercise 1" />
     <MESSAGE value="Initial Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/LessonPractice/LoopExample.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kodego_Aragon_Exercises$PracticeFilefor1DKt.ic" NAME="PracticeFilefor1DKt Coverage Results" MODIFIED="1665972133187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Kodego_Aragon_Exercises$Activity__1A__AKt.ic" NAME="Activity__1A__AKt Coverage Results" MODIFIED="1665417645538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
