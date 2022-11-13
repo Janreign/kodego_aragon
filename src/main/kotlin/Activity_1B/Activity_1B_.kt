@@ -6,10 +6,10 @@
 //fun main () {
 //
 //
-//    //You are tasked to automate a school’s library//
+//    You are tasked to automate a school’s library
 //
-//    //List of Five Items you can borrow in a Library//
-//
+//    List of Five Items you can borrow in a Library
+////
 //   var item1Book: String = ""
 //   var bookTitle: String = ""
 //   var authorName: String= ""
@@ -37,5 +37,5 @@
 //   var CdDvdTopic: String? = null
 //   var categoryOrGenre: String? = null
 //   var Director: String? = null
-//
-//}
+////
+////}

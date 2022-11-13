@@ -1,6 +1,5 @@
 Identify 3 uses cases that will efficiently use an Array, ArrayList, Set, Map.
 
-
 Array
 
 1. Exact number of houses in a specific subdivision
@@ -19,7 +18,7 @@ Set
 
 1. Deck of cards/ Playing Cards
 2. Category in a grocery store
-3. Car Plate numbers
+3. Car Plate Number
 
 
 Map

@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ed76013-5049-47b2-88ef-2d0005d031bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array, ArrayList, Set, Map Activity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LessonPractice/DataStructure 3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity1A/Activity _1A_ A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity1A/Activity _1A_ A.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity1A/Activity _1A_ A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1A/Activity _1A_ A.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1B/Activity_1B_.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1B/Activity_1B_.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1C/Activity_1C.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1C/Activity_1C.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Array, ArrayList, Set, Map Activity" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Array, ArrayList, Set, Map Activity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -60,10 +58,24 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Activity_1GKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activity_1GKt" />
+      <module name="Kodego_Aragon_Exercises.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Activity__1A__AKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Activity__1A__AKt" />
       <module name="Kodego_Aragon_Exercises.main" />
       <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoKt" />
+      <module name="Kodego_Aragon_Exercises.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,6 +101,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Z_Practice_FileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Z_Practice_FileKt" />
+      <module name="Kodego_Aragon_Exercises.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Z_Practice_FileKt" />
+        <item itemvalue="Kotlin.DemoKt" />
+        <item itemvalue="Kotlin.Activity_1GKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -162,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665736600539</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="3 uses of Array, ArrayList, Set, Map.">
+      <created>1666342397728</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666342397728</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,7 +212,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add package exercise 1" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="3 uses of Array, ArrayList, Set, Map." />
+    <option name="LAST_COMMIT_MESSAGE" value="3 uses of Array, ArrayList, Set, Map." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
