@@ -64,7 +64,6 @@ fun main () {
     var result = (amounts / userDivide)
     logger.info { "Result: $result"}
 
-
 }
 
 //
