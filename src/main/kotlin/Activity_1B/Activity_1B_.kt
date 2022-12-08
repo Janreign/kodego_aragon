@@ -17,7 +17,7 @@
 //   val bookSize: String = ""
 //   var ISBN: Long? = null
 //
-//   var item2WorldMap: String = ""
+//   var item2Map: String = ""
 //   var Material: String = ""
 //   var from: String = ""
 //   val Size = ""

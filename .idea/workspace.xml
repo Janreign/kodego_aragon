@@ -6,10 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="8ed76013-5049-47b2-88ef-2d0005d031bb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity1A/Activity _1A_ A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1A/Activity _1A_ A.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1A/Activity _1A_ A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1A/Activity _1A_ A.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1B/Activity_1B_.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1B/Activity_1B_.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1C/Activity_1C.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1C/Activity_1C.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Array, ArrayList, Set, Map Activity" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Array, ArrayList, Set, Map Activity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1D/Activity1D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1D/Activity1D.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1E_with_code/Activity_1E_with_code.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1E_with_code/Activity_1E_with_code.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1F/Activity_1F.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1F/Activity_1F.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_1G/Activity_1G.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_1G/Activity_1G.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Activity_5D_OOP/Activity_5D_OOP.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Activity_5D_OOP/Activity_5D_OOP.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +26,30 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Kodego_Aragon_Exercises" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
@@ -47,8 +73,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propGUI&quot;
   }
 }</component>
@@ -57,9 +83,55 @@
       <recent name="C:\Users\LENOVO\Kodego_Aragon_Exercises\src\main\kotlin\LessonPractice" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Activity_1GKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Activity_1GKt" />
+  <component name="RunManager" selected="Gradle.CalculatorTester">
+    <configuration name="CalculatorTester" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;CalculatorTester&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorTester.amountIsLessThanZero" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;CalculatorTester.amountIsLessThanZero&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Activity_6CKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activity_6C.Activity_6CKt" />
       <module name="Kodego_Aragon_Exercises.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoKt" />
+    <configuration name="CustomExceptionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="custom.CustomExceptionKt" />
       <module name="Kodego_Aragon_Exercises.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,6 +166,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PracticeModeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeModeKt" />
+      <module name="Kodego_Aragon_Exercises.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SampleKt" type="JetRunConfigurationType" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SampleKt" />
       <module name="Kodego_Aragon_Exercises.main" />
@@ -101,18 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Z_Practice_FileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Z_Practice_FileKt" />
-      <module name="Kodego_Aragon_Exercises.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Z_Practice_FileKt" />
-        <item itemvalue="Kotlin.DemoKt" />
-        <item itemvalue="Kotlin.Activity_1GKt" />
+        <item itemvalue="Gradle.CalculatorTester" />
+        <item itemvalue="Kotlin.Activity_6CKt" />
+        <item itemvalue="Gradle.CalculatorTester.amountIsLessThanZero" />
+        <item itemvalue="Kotlin.CustomExceptionKt" />
+        <item itemvalue="Kotlin.PracticeModeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +269,56 @@
       <option name="project" value="LOCAL" />
       <updated>1666342397728</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Activity_1E_3 uses of Array, ArrayList, Set, Map.">
+      <created>1668329537885</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668329537885</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Activity_1E_3 uses of Array, ArrayList, Set, Map.">
+      <created>1668329776706</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668329776706</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Activity_1E_3 uses of Array, ArrayList, Set, Map.">
+      <created>1668329968201</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668329968201</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Activity_1E_3 uses of Array, ArrayList, Set, Map.">
+      <created>1668330461611</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668330461611</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Activity_1E_3 uses of Array, ArrayList, Set, Map.">
+      <created>1668330790760</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668330790760</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Activity_1G">
+      <created>1668338450367</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668338450367</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Activity_5D (Snake and Ladders OOP)">
+      <created>1670295679477</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670295679477</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,7 +336,10 @@
     <MESSAGE value="add package exercise 1" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="3 uses of Array, ArrayList, Set, Map." />
-    <option name="LAST_COMMIT_MESSAGE" value="3 uses of Array, ArrayList, Set, Map." />
+    <MESSAGE value="Activity_1E_3 uses of Array, ArrayList, Set, Map." />
+    <MESSAGE value="Activity_1G" />
+    <MESSAGE value="Activity_5D (Snake and Ladders OOP)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activity_5D (Snake and Ladders OOP)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
